@@ -1,0 +1,36 @@
+.nav {
+color: whitesmoke;  
+background-color: slateblue;
+}
+
+.strongblue {
+    color: blue;
+}
+
+.img{
+    margin-left: 60%;
+    width: 17pc;
+
+}
+
+nav {
+    padding: 10px;
+    padding-bottom: 8px;
+}
+
+li {
+    list-style: none;
+    margin-left: 1%;
+    margin-right: 1%;
+    display: inline;
+
+}
+
+a {
+    text-decoration:none;
+    color: black;
+    background-color: blanchedalmond;
+    padding: 23px 40px;
+    border-style: solid;
+    border-radius: 11px 11px;
+}
